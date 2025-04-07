@@ -1,0 +1,474 @@
+match_id,venue,batting_team,bowling_team,total_runs,avg_runs,max_runs,wickets,deliveries
+202201,"Wankhede Stadium, Mumbai",CSK,KKR,125,0.9920634920634921,6,5,5
+202201,"Wankhede Stadium, Mumbai",KKR,CSK,129,1.162162162162162,6,4,4
+202202,"Brabourne Stadium, Mumbai",DC,MI,168,1.435897435897436,6,6,6
+202202,"Brabourne Stadium, Mumbai",MI,DC,174,1.4262295081967213,6,5,5
+202203,"Dr DY Patil Sports Academy, Mumbai",PBKS,RCB,186,1.4761904761904763,6,5,5
+202203,"Dr DY Patil Sports Academy, Mumbai",RCB,PBKS,182,1.4330708661417322,6,2,2
+202204,"Wankhede Stadium, Mumbai",GT,LSG,152,1.256198347107438,6,5,5
+202204,"Wankhede Stadium, Mumbai",LSG,GT,154,1.2419354838709677,6,6,6
+202205,"Maharashtra Cricket Association Stadium, Pune",RR,SRH,196,1.5076923076923077,6,6,6
+202205,"Maharashtra Cricket Association Stadium, Pune",SRH,RR,139,1.112,6,7,7
+202206,"Dr DY Patil Sports Academy, Mumbai",KKR,RCB,122,1.0608695652173914,6,10,10
+202206,"Dr DY Patil Sports Academy, Mumbai",RCB,KKR,118,0.9752066115702479,6,7,7
+202207,"Brabourne Stadium, Mumbai",CSK,LSG,195,1.5853658536585367,6,7,7
+202207,"Brabourne Stadium, Mumbai",LSG,CSK,193,1.496124031007752,6,4,4
+202208,"Wankhede Stadium, Mumbai",KKR,PBKS,135,1.4673913043478262,6,4,4
+202208,"Wankhede Stadium, Mumbai",PBKS,KKR,126,1.0677966101694916,6,10,10
+202209,"Dr DY Patil Sports Academy, Mumbai",MI,RR,159,1.2230769230769232,6,7,8
+202209,"Dr DY Patil Sports Academy, Mumbai",RR,MI,182,1.4444444444444444,6,8,8
+202210,"Maharashtra Cricket Association Stadium, Pune",DC,GT,146,1.1869918699186992,6,9,9
+202210,"Maharashtra Cricket Association Stadium, Pune",GT,DC,164,1.3225806451612903,6,6,6
+202211,"Brabourne Stadium, Mumbai",CSK,PBKS,122,1.0892857142857142,6,10,10
+202211,"Brabourne Stadium, Mumbai",PBKS,CSK,166,1.2481203007518797,6,8,8
+202212,"Dr DY Patil Sports Academy, Mumbai",LSG,SRH,165,1.3636363636363635,6,6,7
+202212,"Dr DY Patil Sports Academy, Mumbai",SRH,LSG,147,1.1666666666666667,6,9,9
+202213,"Wankhede Stadium, Mumbai",RCB,RR,163,1.3360655737704918,6,6,6
+202213,"Wankhede Stadium, Mumbai",RR,RCB,161,1.288,6,3,3
+202214,"Maharashtra Cricket Association Stadium, Pune",KKR,MI,159,1.6391752577319587,6,5,5
+202214,"Maharashtra Cricket Association Stadium, Pune",MI,KKR,158,1.3057851239669422,6,4,4
+202215,"Dr DY Patil Sports Academy, Mumbai",DC,LSG,143,1.153225806451613,6,3,3
+202215,"Dr DY Patil Sports Academy, Mumbai",LSG,DC,149,1.221311475409836,6,4,4
+202216,"Brabourne Stadium, Mumbai",GT,PBKS,183,1.4758064516129032,6,4,4
+202216,"Brabourne Stadium, Mumbai",PBKS,GT,185,1.5040650406504066,6,9,9
+202217,"Dr DY Patil Sports Academy, Mumbai",CSK,SRH,149,1.192,6,7,7
+202217,"Dr DY Patil Sports Academy, Mumbai",SRH,CSK,151,1.3727272727272728,6,2,2
+202218,"Maharashtra Cricket Association Stadium, Pune",MI,RCB,147,1.2049180327868851,6,6,6
+202218,"Maharashtra Cricket Association Stadium, Pune",RCB,MI,145,1.2719298245614035,6,3,3
+202219,"Brabourne Stadium, Mumbai",DC,KKR,199,1.592,6,5,5
+202219,"Brabourne Stadium, Mumbai",KKR,DC,165,1.3636363636363635,6,10,10
+202220,"Wankhede Stadium, Mumbai",LSG,RR,157,1.2661290322580645,6,8,8
+202220,"Wankhede Stadium, Mumbai",RR,LSG,156,1.2380952380952381,6,6,6
+202221,"Dr DY Patil Sports Academy, Mumbai",GT,SRH,140,1.09375,6,7,7
+202221,"Dr DY Patil Sports Academy, Mumbai",SRH,GT,162,1.3728813559322033,6,2,2
+202222,"Dr DY Patil Sports Academy, Mumbai",CSK,RCB,203,1.5984251968503937,6,4,4
+202222,"Dr DY Patil Sports Academy, Mumbai",RCB,CSK,184,1.426356589147287,6,9,9
+202223,"Maharashtra Cricket Association Stadium, Pune",MI,PBKS,181,1.448,6,9,9
+202223,"Maharashtra Cricket Association Stadium, Pune",PBKS,MI,182,1.4330708661417322,6,5,5
+202224,"Dr DY Patil Sports Academy, Mumbai",GT,RR,188,1.5161290322580645,6,4,4
+202224,"Dr DY Patil Sports Academy, Mumbai",RR,GT,152,1.2459016393442623,6,9,9
+202225,"Brabourne Stadium, Mumbai",KKR,SRH,166,1.3495934959349594,6,8,8
+202225,"Brabourne Stadium, Mumbai",SRH,KKR,164,1.4774774774774775,6,3,3
+202226,"Brabourne Stadium, Mumbai",LSG,MI,191,1.5403225806451613,6,4,4
+202226,"Brabourne Stadium, Mumbai",MI,LSG,166,1.328,6,9,9
+202227,"Wankhede Stadium, Mumbai",DC,RCB,168,1.3548387096774193,6,7,7
+202227,"Wankhede Stadium, Mumbai",RCB,DC,179,1.4206349206349207,6,5,5
+202228,"Dr DY Patil Sports Academy, Mumbai",PBKS,SRH,144,1.1428571428571428,6,10,10
+202228,"Dr DY Patil Sports Academy, Mumbai",SRH,PBKS,144,1.2413793103448276,6,3,3
+202229,"Maharashtra Cricket Association Stadium, Pune",CSK,GT,164,1.312,6,5,5
+202229,"Maharashtra Cricket Association Stadium, Pune",GT,CSK,163,1.3471074380165289,6,7,7
+202230,"Brabourne Stadium, Mumbai",KKR,RR,197,1.5038167938931297,6,10,10
+202230,"Brabourne Stadium, Mumbai",RR,KKR,201,1.5826771653543308,6,5,5
+202231,"Dr DY Patil Sports Academy, Mumbai",LSG,RCB,148,1.1653543307086613,6,8,8
+202231,"Dr DY Patil Sports Academy, Mumbai",RCB,LSG,172,1.3543307086614174,6,6,6
+202232,"Brabourne Stadium, Mumbai",DC,PBKS,113,1.6376811594202898,6,1,1
+202232,"Brabourne Stadium, Mumbai",PBKS,DC,113,0.9338842975206612,6,10,10
+202233,"Dr DY Patil Sports Academy, Mumbai",CSK,MI,148,1.1653543307086613,6,7,7
+202233,"Dr DY Patil Sports Academy, Mumbai",MI,CSK,150,1.2195121951219512,6,7,7
+202234,"Wankhede Stadium, Mumbai",DC,RR,194,1.515625,6,8,8
+202234,"Wankhede Stadium, Mumbai",RR,DC,217,1.75,6,2,2
+202235,"Dr DY Patil Sports Academy, Mumbai",GT,KKR,146,1.1496062992125984,6,9,9
+202235,"Dr DY Patil Sports Academy, Mumbai",KKR,GT,141,1.119047619047619,6,8,8
+202236,"Brabourne Stadium, Mumbai",RCB,SRH,56,0.5333333333333333,4,10,10
+202236,"Brabourne Stadium, Mumbai",SRH,RCB,70,1.4285714285714286,6,1,1
+202237,"Wankhede Stadium, Mumbai",LSG,MI,160,1.28,6,6,6
+202237,"Wankhede Stadium, Mumbai",MI,LSG,118,0.921875,6,8,8
+202238,"Wankhede Stadium, Mumbai",CSK,PBKS,160,1.2698412698412698,6,6,6
+202238,"Wankhede Stadium, Mumbai",PBKS,CSK,173,1.300751879699248,6,4,4
+202239,"Maharashtra Cricket Association Stadium, Pune",RCB,RR,104,0.8455284552845529,6,10,10
+202239,"Maharashtra Cricket Association Stadium, Pune",RR,RCB,141,1.146341463414634,6,8,8
+202240,"Wankhede Stadium, Mumbai",GT,SRH,188,1.504,6,5,5
+202240,"Wankhede Stadium, Mumbai",SRH,GT,181,1.4365079365079365,6,6,6
+202241,"Wankhede Stadium, Mumbai",DC,KKR,144,1.2307692307692308,6,6,6
+202241,"Wankhede Stadium, Mumbai",KKR,DC,137,1.1048387096774193,6,9,9
+202242,"Maharashtra Cricket Association Stadium, Pune",LSG,PBKS,141,1.1370967741935485,6,8,8
+202242,"Maharashtra Cricket Association Stadium, Pune",PBKS,LSG,118,0.9147286821705426,6,8,8
+202243,"Brabourne Stadium, Mumbai",GT,RCB,165,1.3524590163934427,6,4,4
+202243,"Brabourne Stadium, Mumbai",RCB,GT,163,1.3360655737704918,6,6,6
+202244,"Dr DY Patil Sports Academy, Mumbai",MI,RR,150,1.25,6,5,5
+202244,"Dr DY Patil Sports Academy, Mumbai",RR,MI,146,1.1496062992125984,6,6,6
+202245,"Wankhede Stadium, Mumbai",DC,LSG,186,1.5121951219512195,6,7,7
+202245,"Wankhede Stadium, Mumbai",LSG,DC,178,1.3484848484848484,6,3,3
+202246,"Maharashtra Cricket Association Stadium, Pune",CSK,SRH,193,1.5691056910569106,6,2,2
+202246,"Maharashtra Cricket Association Stadium, Pune",SRH,CSK,184,1.4959349593495934,6,6,6
+202247,"Wankhede Stadium, Mumbai",KKR,RR,143,1.153225806451613,6,3,3
+202247,"Wankhede Stadium, Mumbai",RR,KKR,143,1.125984251968504,6,5,5
+202248,"Dr DY Patil Sports Academy, Mumbai",GT,PBKS,129,1.0,6,8,8
+202248,"Dr DY Patil Sports Academy, Mumbai",PBKS,GT,133,1.33,6,2,2
+202249,"Maharashtra Cricket Association Stadium, Pune",CSK,RCB,156,1.3,6,8,8
+202249,"Maharashtra Cricket Association Stadium, Pune",RCB,CSK,161,1.2677165354330708,6,8,8
+202250,"Brabourne Stadium, Mumbai",DC,SRH,195,1.5354330708661417,6,3,3
+202250,"Brabourne Stadium, Mumbai",SRH,DC,175,1.3888888888888888,6,8,8
+202251,"Brabourne Stadium, Mumbai",GT,MI,168,1.3884297520661157,6,5,5
+202251,"Brabourne Stadium, Mumbai",MI,GT,170,1.36,6,5,6
+202252,"Wankhede Stadium, Mumbai",PBKS,RR,175,1.3358778625954197,6,5,5
+202252,"Wankhede Stadium, Mumbai",RR,PBKS,183,1.4758064516129032,6,4,4
+202253,"Maharashtra Cricket Association Stadium, Pune",KKR,LSG,98,1.101123595505618,6,10,10
+202253,"Maharashtra Cricket Association Stadium, Pune",LSG,KKR,172,1.4098360655737705,6,7,7
+202254,"Wankhede Stadium, Mumbai",RCB,SRH,184,1.4603174603174602,6,3,3
+202254,"Wankhede Stadium, Mumbai",SRH,RCB,118,0.9833333333333333,6,10,10
+202255,"Dr DY Patil Sports Academy, Mumbai",CSK,DC,196,1.4961832061068703,6,6,6
+202255,"Dr DY Patil Sports Academy, Mumbai",DC,CSK,113,1.0462962962962963,6,10,10
+202256,"Dr DY Patil Sports Academy, Mumbai",KKR,MI,154,1.2222222222222223,6,9,9
+202256,"Dr DY Patil Sports Academy, Mumbai",MI,KKR,103,0.9626168224299065,6,10,10
+202257,"Maharashtra Cricket Association Stadium, Pune",GT,LSG,137,1.0873015873015872,6,4,4
+202257,"Maharashtra Cricket Association Stadium, Pune",LSG,GT,79,0.9186046511627907,6,10,10
+202258,"Dr DY Patil Sports Academy, Mumbai",DC,RR,154,1.3508771929824561,6,2,2
+202258,"Dr DY Patil Sports Academy, Mumbai",RR,DC,154,1.232,6,6,6
+202259,"Wankhede Stadium, Mumbai",CSK,MI,82,0.7884615384615384,6,10,10
+202259,"Wankhede Stadium, Mumbai",MI,CSK,93,0.9893617021276596,6,5,5
+202260,"Brabourne Stadium, Mumbai",PBKS,RCB,202,1.6290322580645162,6,9,9
+202260,"Brabourne Stadium, Mumbai",RCB,PBKS,145,1.1328125,6,9,9
+202261,"Maharashtra Cricket Association Stadium, Pune",KKR,SRH,165,1.2890625,6,6,6
+202261,"Maharashtra Cricket Association Stadium, Pune",SRH,KKR,120,0.975609756097561,6,8,8
+202262,"Wankhede Stadium, Mumbai",CSK,GT,126,1.008,6,5,5
+202262,"Wankhede Stadium, Mumbai",GT,CSK,127,1.0672268907563025,6,3,3
+202263,"Brabourne Stadium, Mumbai",LSG,RR,139,1.0859375,6,8,8
+202263,"Brabourne Stadium, Mumbai",RR,LSG,174,1.4146341463414633,6,6,6
+202264,"Dr DY Patil Sports Academy, Mumbai",DC,PBKS,150,1.2195121951219512,6,7,7
+202264,"Dr DY Patil Sports Academy, Mumbai",PBKS,DC,136,1.0793650793650793,6,9,9
+202265,"Wankhede Stadium, Mumbai",MI,SRH,176,1.353846153846154,6,7,7
+202265,"Wankhede Stadium, Mumbai",SRH,MI,184,1.472,6,6,6
+202266,"Dr DY Patil Sports Academy, Mumbai",KKR,LSG,198,1.5590551181102361,6,8,8
+202266,"Dr DY Patil Sports Academy, Mumbai",LSG,KKR,208,1.7049180327868851,6,0,0
+202267,"Wankhede Stadium, Mumbai",GT,RCB,165,1.3524590163934427,6,5,5
+202267,"Wankhede Stadium, Mumbai",RCB,GT,159,1.382608695652174,6,2,2
+202268,"Brabourne Stadium, Mumbai",CSK,RR,145,1.16,6,6,6
+202268,"Brabourne Stadium, Mumbai",RR,CSK,135,1.1065573770491803,6,5,5
+202269,"Wankhede Stadium, Mumbai",DC,MI,145,1.1328125,6,7,7
+202269,"Wankhede Stadium, Mumbai",MI,DC,155,1.3025210084033614,6,5,5
+202270,"Wankhede Stadium, Mumbai",PBKS,SRH,154,1.6210526315789473,6,5,5
+202270,"Wankhede Stadium, Mumbai",SRH,PBKS,145,1.16,6,7,8
+202271,"Eden Gardens, Kolkata",GT,RR,178,1.424,6,3,3
+202271,"Eden Gardens, Kolkata",RR,GT,177,1.3937007874015748,6,6,6
+202272,"Eden Gardens, Kolkata",LSG,RCB,171,1.3153846153846154,6,6,6
+202272,"Eden Gardens, Kolkata",RCB,LSG,197,1.5634920634920635,6,4,4
+202273,"Narendra Modi Stadium, Ahmedabad",RCB,RR,142,1.1181102362204725,6,8,8
+202273,"Narendra Modi Stadium, Ahmedabad",RR,RCB,161,1.4770642201834863,6,3,3
+202274,"Narendra Modi Stadium, Ahmedabad",GT,RR,124,1.0973451327433628,6,3,3
+202274,"Narendra Modi Stadium, Ahmedabad",RR,GT,128,1.0666666666666667,6,9,9
+202301,"Narendra Modi Stadium, Ahmedabad",CSK,GT,170,1.4049586776859504,6,7,7
+202301,"Narendra Modi Stadium, Ahmedabad",GT,CSK,170,1.3934426229508197,6,5,5
+202302,"Punjab Cricket Association IS Bindra Stadium, Mohali",KKR,PBKS,140,1.4141414141414141,6,7,7
+202302,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,KKR,187,1.5203252032520325,6,5,5
+202303,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",DC,LSG,133,1.0555555555555556,6,9,9
+202303,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC,185,1.48,6,6,6
+202304,"Rajiv Gandhi International Stadium, Hyderabad",RR,SRH,195,1.598360655737705,6,5,5
+202304,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,124,0.9841269841269841,6,8,8
+202305,"M.Chinnaswamy Stadium, Bengaluru",MI,RCB,160,1.2307692307692308,6,7,7
+202305,"M.Chinnaswamy Stadium, Bengaluru",RCB,MI,167,1.6372549019607843,6,2,2
+202306,"MA Chidambaram Stadium, Chennai",CSK,LSG,201,1.6209677419354838,6,7,7
+202306,"MA Chidambaram Stadium, Chennai",LSG,CSK,187,1.375,6,7,7
+202307,"Arun Jaitley Stadium, Delhi",DC,GT,147,1.176,6,8,8
+202307,"Arun Jaitley Stadium, Delhi",GT,DC,155,1.3478260869565217,6,4,4
+202308,"Barsapara Cricket Stadium, Guwahati",PBKS,RR,187,1.4724409448818898,6,4,4
+202308,"Barsapara Cricket Stadium, Guwahati",RR,PBKS,182,1.456,6,7,7
+202309,"Eden Gardens, Kolkata",KKR,RCB,181,1.4031007751937985,6,7,7
+202309,"Eden Gardens, Kolkata",RCB,KKR,117,1.0934579439252337,6,10,10
+202310,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,SRH,110,1.0891089108910892,6,5,5
+202310,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",SRH,LSG,118,0.9672131147540983,6,8,8
+202311,"Barsapara Cricket Stadium, Guwahati",DC,RR,132,1.03125,4,9,9
+202311,"Barsapara Cricket Stadium, Guwahati",RR,DC,193,1.5564516129032258,6,4,4
+202312,"Wankhede Stadium, Mumbai",CSK,MI,149,1.3070175438596492,6,3,3
+202312,"Wankhede Stadium, Mumbai",MI,CSK,149,1.192,6,8,8
+202313,"Narendra Modi Stadium, Ahmedabad",GT,KKR,188,1.4803149606299213,6,4,4
+202313,"Narendra Modi Stadium, Ahmedabad",KKR,GT,203,1.6504065040650406,6,7,7
+202314,"Rajiv Gandhi International Stadium, Hyderabad",PBKS,SRH,137,1.096,6,9,9
+202314,"Rajiv Gandhi International Stadium, Hyderabad",SRH,PBKS,145,1.4077669902912622,6,2,2
+202315,"M.Chinnaswamy Stadium, Bengaluru",LSG,RCB,197,1.5271317829457365,6,9,9
+202315,"M.Chinnaswamy Stadium, Bengaluru",RCB,LSG,200,1.6129032258064515,6,2,2
+202316,"Arun Jaitley Stadium, Delhi",DC,MI,161,1.2983870967741935,6,10,10
+202316,"Arun Jaitley Stadium, Delhi",MI,DC,167,1.3688524590163935,6,4,4
+202317,"MA Chidambaram Stadium, Chennai",CSK,RR,162,1.2755905511811023,6,6,6
+202317,"MA Chidambaram Stadium, Chennai",RR,CSK,165,1.3095238095238095,6,8,8
+202318,"Punjab Cricket Association IS Bindra Stadium, Mohali",GT,PBKS,146,1.226890756302521,6,4,4
+202318,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,GT,142,1.1007751937984496,6,8,8
+202319,"Eden Gardens, Kolkata",KKR,SRH,195,1.5234375,6,7,7
+202319,"Eden Gardens, Kolkata",SRH,KKR,216,1.6875,6,4,4
+202320,"M.Chinnaswamy Stadium, Bengaluru",DC,RCB,148,1.2032520325203253,6,9,9
+202320,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC,163,1.314516129032258,6,6,6
+202321,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,147,1.1574803149606299,6,8,8
+202321,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",PBKS,LSG,154,1.2622950819672132,6,8,8
+202322,"Wankhede Stadium, Mumbai",KKR,MI,171,1.3359375,6,6,6
+202322,"Wankhede Stadium, Mumbai",MI,KKR,182,1.6697247706422018,6,5,5
+202323,"Narendra Modi Stadium, Ahmedabad",GT,RR,172,1.3870967741935485,6,7,7
+202323,"Narendra Modi Stadium, Ahmedabad",RR,GT,176,1.4915254237288136,6,7,7
+202324,"M.Chinnaswamy Stadium, Bengaluru",CSK,RCB,219,1.7380952380952381,6,6,6
+202324,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK,207,1.6428571428571428,6,8,8
+202325,"Rajiv Gandhi International Stadium, Hyderabad",MI,SRH,190,1.5573770491803278,6,5,5
+202325,"Rajiv Gandhi International Stadium, Hyderabad",SRH,MI,159,1.2519685039370079,6,10,10
+202326,"Sawai Mansingh Stadium, Jaipur",LSG,RR,148,1.2131147540983607,6,7,7
+202326,"Sawai Mansingh Stadium, Jaipur",RR,LSG,132,1.0731707317073171,6,6,6
+202327,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,RCB,145,1.2831858407079646,6,10,10
+202327,"Punjab Cricket Association IS Bindra Stadium, Mohali",RCB,PBKS,162,1.3170731707317074,6,4,4
+202328,"Arun Jaitley Stadium, Delhi",DC,KKR,121,1.0,4,6,6
+202328,"Arun Jaitley Stadium, Delhi",KKR,DC,115,0.8846153846153846,6,10,10
+202329,"MA Chidambaram Stadium, Chennai",CSK,SRH,136,1.2142857142857142,6,3,3
+202329,"MA Chidambaram Stadium, Chennai",SRH,CSK,130,1.0655737704918034,6,7,7
+202330,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT,LSG,134,1.1166666666666667,6,6,6
+202330,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,GT,126,1.0413223140495869,6,7,7
+202331,"Wankhede Stadium, Mumbai",MI,PBKS,198,1.6097560975609757,6,6,6
+202331,"Wankhede Stadium, Mumbai",PBKS,MI,202,1.565891472868217,6,8,8
+202332,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR,176,1.408,6,9,9
+202332,"M.Chinnaswamy Stadium, Bengaluru",RR,RCB,171,1.3571428571428572,6,6,6
+202333,"Eden Gardens, Kolkata",CSK,KKR,232,1.886178861788618,6,4,4
+202333,"Eden Gardens, Kolkata",KKR,CSK,176,1.3643410852713178,6,8,8
+202334,"Rajiv Gandhi International Stadium, Hyderabad",DC,SRH,140,1.1570247933884297,6,9,9
+202334,"Rajiv Gandhi International Stadium, Hyderabad",SRH,DC,136,1.1239669421487604,6,6,6
+202335,"Narendra Modi Stadium, Ahmedabad",GT,MI,202,1.616,6,6,6
+202335,"Narendra Modi Stadium, Ahmedabad",MI,GT,147,1.2148760330578512,6,9,9
+202336,"M.Chinnaswamy Stadium, Bengaluru",KKR,RCB,193,1.544,6,5,5
+202336,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR,173,1.4180327868852458,6,8,8
+202337,"Sawai Mansingh Stadium, Jaipur",CSK,RR,168,1.3884297520661157,6,6,6
+202337,"Sawai Mansingh Stadium, Jaipur",RR,CSK,191,1.5403225806451613,6,4,5
+202338,"Punjab Cricket Association IS Bindra Stadium, Mohali",LSG,PBKS,242,1.875968992248062,6,5,5
+202338,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,LSG,188,1.46875,6,10,10
+202339,"Eden Gardens, Kolkata",GT,KKR,168,1.5272727272727273,6,3,3
+202339,"Eden Gardens, Kolkata",KKR,GT,176,1.4308943089430894,6,7,7
+202340,"Arun Jaitley Stadium, Delhi",DC,SRH,184,1.4959349593495934,6,6,6
+202340,"Arun Jaitley Stadium, Delhi",SRH,DC,187,1.449612403100775,6,6,6
+202341,"MA Chidambaram Stadium, Chennai",CSK,PBKS,192,1.5118110236220472,6,4,4
+202341,"MA Chidambaram Stadium, Chennai",PBKS,CSK,188,1.504,6,6,6
+202342,"Wankhede Stadium, Mumbai",MI,RR,204,1.632,6,4,4
+202342,"Wankhede Stadium, Mumbai",RR,MI,187,1.406015037593985,6,7,7
+202343,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,RCB,101,0.8145161290322581,6,10,10
+202343,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",RCB,LSG,124,1.0163934426229508,6,9,9
+202344,"Narendra Modi Stadium, Ahmedabad",DC,GT,125,1.0080645161290323,6,7,8
+202344,"Narendra Modi Stadium, Ahmedabad",GT,DC,120,0.967741935483871,6,6,6
+202345,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,CSK,119,1.0084745762711864,6,7,7
+202346,"Punjab Cricket Association IS Bindra Stadium, Mohali",MI,PBKS,209,1.8017241379310345,6,4,4
+202346,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,MI,197,1.5390625,6,3,3
+202347,"Rajiv Gandhi International Stadium, Hyderabad",KKR,SRH,163,1.2834645669291338,6,9,9
+202347,"Rajiv Gandhi International Stadium, Hyderabad",SRH,KKR,152,1.1968503937007875,6,8,8
+202348,"Sawai Mansingh Stadium, Jaipur",GT,RR,116,1.380952380952381,6,1,1
+202348,"Sawai Mansingh Stadium, Jaipur",RR,GT,110,0.9649122807017544,6,10,10
+202349,"MA Chidambaram Stadium, Chennai",CSK,MI,135,1.238532110091743,6,4,4
+202349,"MA Chidambaram Stadium, Chennai",MI,CSK,131,1.0737704918032787,6,8,8
+202350,"Arun Jaitley Stadium, Delhi",DC,RCB,178,1.7281553398058251,6,3,3
+202350,"Arun Jaitley Stadium, Delhi",RCB,DC,173,1.384,6,4,4
+202351,"Narendra Modi Stadium, Ahmedabad",GT,LSG,221,1.768,6,2,2
+202351,"Narendra Modi Stadium, Ahmedabad",LSG,GT,163,1.304,6,7,7
+202352,"Sawai Mansingh Stadium, Jaipur",RR,SRH,203,1.624,6,2,2
+202352,"Sawai Mansingh Stadium, Jaipur",SRH,RR,212,1.696,6,6,6
+202353,"Eden Gardens, Kolkata",KKR,PBKS,178,1.4471544715447155,6,5,5
+202353,"Eden Gardens, Kolkata",PBKS,KKR,166,1.3174603174603174,6,7,7
+202354,"Wankhede Stadium, Mumbai",MI,RCB,186,1.7547169811320755,6,4,4
+202354,"Wankhede Stadium, Mumbai",RCB,MI,195,1.5853658536585367,6,6,6
+202355,"MA Chidambaram Stadium, Chennai",CSK,DC,152,1.1692307692307693,6,8,8
+202355,"MA Chidambaram Stadium, Chennai",DC,CSK,129,1.032,6,8,8
+202356,"Eden Gardens, Kolkata",KKR,RR,146,1.2066115702479339,6,8,8
+202356,"Eden Gardens, Kolkata",RR,KKR,146,1.7804878048780488,6,1,1
+202357,"Wankhede Stadium, Mumbai",GT,MI,185,1.5040650406504066,6,8,8
+202357,"Wankhede Stadium, Mumbai",MI,GT,216,1.8,6,5,5
+202358,"Rajiv Gandhi International Stadium, Hyderabad",LSG,SRH,179,1.4793388429752066,6,3,3
+202358,"Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,177,1.4390243902439024,6,6,6
+202359,"Arun Jaitley Stadium, Delhi",DC,PBKS,132,1.0731707317073171,6,8,8
+202359,"Arun Jaitley Stadium, Delhi",PBKS,DC,154,1.2125984251968505,6,7,7
+202360,"Sawai Mansingh Stadium, Jaipur",RCB,RR,166,1.3387096774193548,6,5,5
+202360,"Sawai Mansingh Stadium, Jaipur",RR,RCB,56,0.8615384615384616,6,10,10
+202361,"MA Chidambaram Stadium, Chennai",CSK,KKR,138,1.104,6,6,6
+202361,"MA Chidambaram Stadium, Chennai",KKR,CSK,135,1.1440677966101696,6,4,4
+202362,"Narendra Modi Stadium, Ahmedabad",GT,SRH,175,1.3671875,6,9,9
+202362,"Narendra Modi Stadium, Ahmedabad",SRH,GT,144,1.152,6,9,9
+202363,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI,167,1.336,6,3,3
+202363,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",MI,LSG,157,1.2076923076923076,6,5,5
+202365,"Rajiv Gandhi International Stadium, Hyderabad",RCB,SRH,180,1.487603305785124,6,2,2
+202365,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RCB,180,1.4516129032258065,6,5,5
+202366,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,RR,181,1.4365079365079365,6,5,5
+202366,"Himachal Pradesh Cricket Association Stadium, Dharamsala",RR,PBKS,180,1.4285714285714286,6,6,6
+202367,"Arun Jaitley Stadium, Delhi",CSK,DC,213,1.6511627906976745,6,3,3
+202367,"Arun Jaitley Stadium, Delhi",DC,CSK,135,1.062992125984252,6,9,9
+202368,"Eden Gardens, Kolkata",KKR,LSG,166,1.328,6,7,7
+202368,"Eden Gardens, Kolkata",LSG,KKR,164,1.2913385826771653,6,8,8
+202369,"Wankhede Stadium, Mumbai",MI,SRH,195,1.7256637168141593,6,2,2
+202369,"Wankhede Stadium, Mumbai",SRH,MI,188,1.492063492063492,6,5,5
+202370,"M.Chinnaswamy Stadium, Bengaluru",GT,RCB,179,1.4552845528455285,6,4,4
+202370,"M.Chinnaswamy Stadium, Bengaluru",RCB,GT,190,1.52,6,5,5
+202371,"MA Chidambaram Stadium, Chennai",CSK,GT,167,1.3688524590163935,6,7,7
+202371,"MA Chidambaram Stadium, Chennai",GT,CSK,142,1.0757575757575757,6,10,10
+202373,"Narendra Modi Stadium, Ahmedabad",GT,MI,223,1.7559055118110236,6,2,2
+202373,"Narendra Modi Stadium, Ahmedabad",MI,GT,164,1.4260869565217391,6,10,10
+202374,"Narendra Modi Stadium, Ahmedabad",CSK,GT,166,1.7659574468085106,6,5,5
+202374,"Narendra Modi Stadium, Ahmedabad",GT,CSK,210,1.721311475409836,6,4,4
+202401,"MA Chidambaram Stadium, Chennai",CSK,RCB,160,1.3333333333333333,6,4,4
+202401,"MA Chidambaram Stadium, Chennai",RCB,CSK,160,1.2403100775193798,6,6,6
+202402,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",DC,PBKS,164,1.3225806451612903,6,9,9
+202402,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,DC,169,1.4083333333333334,6,6,6
+202403,"Eden Gardens, Kolkata",KKR,SRH,200,1.5748031496062993,6,7,7
+202403,"Eden Gardens, Kolkata",SRH,KKR,197,1.6147540983606556,6,7,7
+202404,"Sawai Mansingh Stadium, Jaipur",LSG,RR,159,1.282258064516129,6,6,6
+202404,"Sawai Mansingh Stadium, Jaipur",RR,LSG,185,1.4682539682539681,6,4,4
+202405,"Narendra Modi Stadium, Ahmedabad",GT,MI,156,1.2580645161290323,6,6,6
+202405,"Narendra Modi Stadium, Ahmedabad",MI,GT,159,1.2926829268292683,6,9,9
+202406,"M.Chinnaswamy Stadium, Bengaluru",PBKS,RCB,168,1.344,6,6,6
+202406,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS,160,1.3008130081300813,6,6,6
+202407,"MA Chidambaram Stadium, Chennai",CSK,GT,200,1.6,6,6,6
+202407,"MA Chidambaram Stadium, Chennai",GT,CSK,132,1.03125,6,8,8
+202408,"Rajiv Gandhi International Stadium, Hyderabad",MI,SRH,235,1.8650793650793651,6,5,5
+202408,"Rajiv Gandhi International Stadium, Hyderabad",SRH,MI,258,2.0,6,3,3
+202409,"Sawai Mansingh Stadium, Jaipur",DC,RR,168,1.3548387096774193,6,5,5
+202409,"Sawai Mansingh Stadium, Jaipur",RR,DC,178,1.424,6,5,5
+202410,"M.Chinnaswamy Stadium, Bengaluru",KKR,RCB,171,1.6285714285714286,6,3,3
+202410,"M.Chinnaswamy Stadium, Bengaluru",RCB,KKR,178,1.4471544715447155,6,6,6
+202411,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,192,1.5483870967741935,6,8,8
+202411,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",PBKS,LSG,174,1.4262295081967213,6,5,5
+202412,"Narendra Modi Stadium, Ahmedabad",GT,SRH,164,1.3781512605042017,6,3,3
+202412,"Narendra Modi Stadium, Ahmedabad",SRH,GT,158,1.2950819672131149,6,8,8
+202413,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",CSK,DC,158,1.234375,6,6,6
+202413,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",DC,CSK,180,1.4285714285714286,6,5,5
+202414,"Wankhede Stadium, Mumbai",MI,RR,118,0.9516129032258065,6,9,9
+202414,"Wankhede Stadium, Mumbai",RR,MI,113,1.1414141414141414,6,4,4
+202415,"M.Chinnaswamy Stadium, Bengaluru",LSG,RCB,171,1.3790322580645162,6,5,5
+202415,"M.Chinnaswamy Stadium, Bengaluru",RCB,LSG,142,1.1639344262295082,6,10,10
+202416,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",DC,KKR,150,1.3636363636363635,6,10,10
+202416,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",KKR,DC,250,1.8656716417910448,6,7,7
+202417,"Narendra Modi Stadium, Ahmedabad",GT,PBKS,190,1.532258064516129,6,4,4
+202417,"Narendra Modi Stadium, Ahmedabad",PBKS,GT,187,1.5203252032520325,6,7,7
+202418,"Rajiv Gandhi International Stadium, Hyderabad",CSK,SRH,163,1.3471074380165289,6,5,5
+202418,"Rajiv Gandhi International Stadium, Hyderabad",SRH,CSK,160,1.4414414414414414,6,4,4
+202419,"Sawai Mansingh Stadium, Jaipur",RCB,RR,172,1.376,6,3,3
+202419,"Sawai Mansingh Stadium, Jaipur",RR,RCB,186,1.576271186440678,6,4,4
+202420,"Wankhede Stadium, Mumbai",DC,MI,202,1.6557377049180328,6,8,8
+202420,"Wankhede Stadium, Mumbai",MI,DC,220,1.7054263565891472,6,5,5
+202421,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT,LSG,118,0.9672131147540983,6,10,10
+202421,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,GT,158,1.3057851239669422,6,5,5
+202422,"MA Chidambaram Stadium, Chennai",CSK,KKR,136,1.2477064220183487,6,3,3
+202422,"MA Chidambaram Stadium, Chennai",KKR,CSK,124,0.96875,6,9,9
+202423,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,SRH,173,1.3951612903225807,6,6,6
+202423,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",SRH,PBKS,175,1.4,6,9,9
+202424,"Sawai Mansingh Stadium, Jaipur",GT,RR,188,1.4803149606299213,6,7,7
+202424,"Sawai Mansingh Stadium, Jaipur",RR,GT,189,1.5,6,3,3
+202425,"Wankhede Stadium, Mumbai",MI,RCB,196,2.0416666666666665,6,3,3
+202425,"Wankhede Stadium, Mumbai",RCB,MI,186,1.4761904761904763,6,8,8
+202426,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",DC,LSG,162,1.4464285714285714,6,4,4
+202426,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC,157,1.236220472440945,6,7,7
+202427,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,RR,139,1.112,6,8,8
+202427,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",RR,PBKS,149,1.221311475409836,6,7,7
+202428,"Eden Gardens, Kolkata",KKR,LSG,140,1.3461538461538463,6,2,2
+202428,"Eden Gardens, Kolkata",LSG,KKR,153,1.204724409448819,6,7,7
+202429,"Wankhede Stadium, Mumbai",CSK,MI,198,1.584,6,4,4
+202429,"Wankhede Stadium, Mumbai",MI,CSK,179,1.4435483870967742,6,6,6
+202430,"M.Chinnaswamy Stadium, Bengaluru",RCB,SRH,248,1.8931297709923665,6,7,7
+202430,"M.Chinnaswamy Stadium, Bengaluru",SRH,RCB,272,2.0763358778625953,6,3,3
+202431,"Eden Gardens, Kolkata",KKR,RR,202,1.565891472868217,6,6,6
+202431,"Eden Gardens, Kolkata",RR,KKR,208,1.6,6,8,8
+202432,"Narendra Modi Stadium, Ahmedabad",DC,GT,86,1.5636363636363637,6,4,4
+202432,"Narendra Modi Stadium, Ahmedabad",GT,DC,77,0.6875,6,10,10
+202433,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",MI,PBKS,181,1.448,6,7,7
+202433,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,MI,162,1.2857142857142858,6,10,10
+202434,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",CSK,LSG,172,1.4098360655737705,6,6,6
+202434,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,CSK,167,1.3577235772357723,6,2,2
+202435,"Arun Jaitley Stadium, Delhi",DC,SRH,191,1.5916666666666666,6,10,10
+202435,"Arun Jaitley Stadium, Delhi",SRH,DC,261,2.1219512195121952,6,7,7
+202436,"Eden Gardens, Kolkata",KKR,RCB,202,1.565891472868217,6,6,6
+202436,"Eden Gardens, Kolkata",RCB,KKR,212,1.7096774193548387,6,10,10
+202437,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",GT,PBKS,143,1.2327586206896552,6,7,7
+202437,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,GT,138,1.1219512195121952,6,10,10
+202438,"Sawai Mansingh Stadium, Jaipur",MI,RR,169,1.3203125,6,9,9
+202438,"Sawai Mansingh Stadium, Jaipur",RR,MI,177,1.5128205128205128,6,1,1
+202439,"MA Chidambaram Stadium, Chennai",CSK,LSG,206,1.6885245901639345,6,4,4
+202439,"MA Chidambaram Stadium, Chennai",LSG,CSK,204,1.6585365853658536,6,4,4
+202440,"Arun Jaitley Stadium, Delhi",DC,GT,219,1.7804878048780488,6,4,4
+202440,"Arun Jaitley Stadium, Delhi",GT,DC,212,1.7096774193548387,6,8,8
+202441,"Rajiv Gandhi International Stadium, Hyderabad",RCB,SRH,199,1.592,6,7,7
+202441,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RCB,161,1.2578125,6,8,8
+202442,"Eden Gardens, Kolkata",KKR,PBKS,248,1.9375,6,6,6
+202442,"Eden Gardens, Kolkata",PBKS,KKR,256,2.206896551724138,6,2,2
+202443,"Arun Jaitley Stadium, Delhi",DC,MI,249,1.9606299212598426,6,4,4
+202443,"Arun Jaitley Stadium, Delhi",MI,DC,230,1.811023622047244,6,9,9
+202444,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,RR,178,1.390625,6,5,5
+202444,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",RR,LSG,195,1.6956521739130435,6,3,3
+202445,"Narendra Modi Stadium, Ahmedabad",GT,RCB,189,1.4651162790697674,6,3,3
+202445,"Narendra Modi Stadium, Ahmedabad",RCB,GT,194,1.94,6,1,1
+202446,"MA Chidambaram Stadium, Chennai",CSK,SRH,203,1.6111111111111112,6,3,3
+202446,"MA Chidambaram Stadium, Chennai",SRH,CSK,131,1.1293103448275863,6,10,10
+202447,"Eden Gardens, Kolkata",DC,KKR,140,1.1111111111111112,6,9,9
+202447,"Eden Gardens, Kolkata",KKR,DC,153,1.5148514851485149,6,3,3
+202448,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI,134,1.098360655737705,6,6,6
+202448,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",MI,LSG,136,1.0793650793650793,6,7,7
+202449,"MA Chidambaram Stadium, Chennai",CSK,PBKS,144,1.1162790697674418,6,7,7
+202449,"MA Chidambaram Stadium, Chennai",PBKS,CSK,153,1.3304347826086957,6,3,3
+202450,"Rajiv Gandhi International Stadium, Hyderabad",RR,SRH,187,1.4166666666666667,6,7,7
+202450,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,193,1.5196850393700787,6,3,3
+202451,"Wankhede Stadium, Mumbai",KKR,MI,162,1.296,6,10,10
+202451,"Wankhede Stadium, Mumbai",MI,KKR,135,1.1440677966101696,6,10,10
+202452,"M.Chinnaswamy Stadium, Bengaluru",GT,RCB,140,1.1570247933884297,6,10,10
+202452,"M.Chinnaswamy Stadium, Bengaluru",RCB,GT,150,1.8072289156626506,6,6,6
+202453,"Himachal Pradesh Cricket Association Stadium, Dharamsala",CSK,PBKS,161,1.288,6,9,9
+202453,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,CSK,130,1.0483870967741935,6,9,9
+202454,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",KKR,LSG,222,1.734375,6,6,6
+202454,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,KKR,130,1.2745098039215685,6,10,10
+202455,"Wankhede Stadium, Mumbai",MI,SRH,152,1.4074074074074074,6,3,3
+202455,"Wankhede Stadium, Mumbai",SRH,MI,159,1.213740458015267,6,8,8
+202456,"Arun Jaitley Stadium, Delhi",DC,RR,220,1.8181818181818181,6,8,8
+202456,"Arun Jaitley Stadium, Delhi",RR,DC,186,1.4645669291338583,6,8,8
+202457,"Rajiv Gandhi International Stadium, Hyderabad",LSG,SRH,161,1.3089430894308942,6,4,4
+202457,"Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,164,2.7333333333333334,6,0,0
+202458,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,RCB,175,1.6666666666666667,6,10,10
+202458,"Himachal Pradesh Cricket Association Stadium, Dharamsala",RCB,PBKS,233,1.8492063492063493,6,7,7
+202459,"Narendra Modi Stadium, Ahmedabad",CSK,GT,189,1.5241935483870968,6,8,8
+202459,"Narendra Modi Stadium, Ahmedabad",GT,CSK,225,1.8,6,3,3
+202460,"Eden Gardens, Kolkata",KKR,MI,151,1.5252525252525253,6,7,7
+202460,"Eden Gardens, Kolkata",MI,KKR,127,1.2450980392156863,6,8,8
+202461,"MA Chidambaram Stadium, Chennai",CSK,RR,139,1.208695652173913,6,5,5
+202461,"MA Chidambaram Stadium, Chennai",RR,CSK,136,1.096774193548387,6,5,5
+202462,"M.Chinnaswamy Stadium, Bengaluru",DC,RCB,134,1.1166666666666667,6,10,10
+202462,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC,177,1.4047619047619047,6,9,9
+202464,"Arun Jaitley Stadium, Delhi",DC,LSG,200,1.5748031496062993,6,4,4
+202464,"Arun Jaitley Stadium, Delhi",LSG,DC,183,1.4758064516129032,6,9,9
+202465,"Barsapara Cricket Stadium, Guwahati",PBKS,RR,144,1.263157894736842,6,5,5
+202465,"Barsapara Cricket Stadium, Guwahati",RR,PBKS,142,1.1735537190082646,6,9,9
+202467,"Wankhede Stadium, Mumbai",LSG,MI,203,1.5984251968503937,6,6,6
+202467,"Wankhede Stadium, Mumbai",MI,LSG,185,1.434108527131783,6,6,6
+202468,"M.Chinnaswamy Stadium, Bengaluru",CSK,RCB,176,1.3968253968253967,6,7,7
+202468,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK,210,1.6666666666666667,6,5,5
+202469,"Rajiv Gandhi International Stadium, Hyderabad",PBKS,SRH,204,1.632,6,5,5
+202469,"Rajiv Gandhi International Stadium, Hyderabad",SRH,PBKS,198,1.6229508196721312,6,6,6
+202471,"Narendra Modi Stadium, Ahmedabad",KKR,SRH,153,1.8214285714285714,6,2,2
+202471,"Narendra Modi Stadium, Ahmedabad",SRH,KKR,152,1.2258064516129032,6,10,10
+202472,"Narendra Modi Stadium, Ahmedabad",RCB,RR,168,1.3770491803278688,6,8,8
+202472,"Narendra Modi Stadium, Ahmedabad",RR,RCB,168,1.423728813559322,6,6,6
+202473,"MA Chidambaram Stadium, Chennai",RR,SRH,134,1.0806451612903225,6,7,7
+202473,"MA Chidambaram Stadium, Chennai",SRH,RR,167,1.31496062992126,6,9,9
+202474,"MA Chidambaram Stadium, Chennai",KKR,SRH,103,1.537313432835821,6,2,2
+202474,"MA Chidambaram Stadium, Chennai",SRH,KKR,100,0.8620689655172413,6,10,10
+202501,"Eden Gardens, Kolkata",KKR,RCB,168,1.3548387096774193,6,8,8
+202501,"Eden Gardens, Kolkata",RCB,KKR,174,1.7575757575757576,6,3,3
+202502,"Rajiv Gandhi International Stadium, Hyderabad",RR,SRH,229,1.7751937984496124,6,6,6
+202502,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,268,2.0303030303030303,6,6,6
+202503,"MA Chidambaram Stadium, Chennai",CSK,MI,153,1.2966101694915255,6,6,6
+202503,"MA Chidambaram Stadium, Chennai",MI,CSK,145,1.16,6,9,9
+202504,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",DC,LSG,203,1.677685950413223,6,9,9
+202504,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",LSG,DC,202,1.616,6,8,8
+202505,"Narendra Modi Stadium, Ahmedabad",GT,PBKS,220,1.7322834645669292,6,5,5
+202505,"Narendra Modi Stadium, Ahmedabad",PBKS,GT,229,1.832,6,5,5
+202506,"Barsapara Cricket Stadium, Guwahati",KKR,RR,142,1.3027522935779816,6,2,2
+202506,"Barsapara Cricket Stadium, Guwahati",RR,KKR,147,1.1951219512195121,6,9,9
+202507,"Rajiv Gandhi International Stadium, Hyderabad",LSG,SRH,179,1.7047619047619047,6,5,5
+202507,"Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,183,1.464,6,9,9
+202508,"MA Chidambaram Stadium, Chennai",CSK,RCB,143,1.1721311475409837,6,8,8
+202508,"MA Chidambaram Stadium, Chennai",RCB,CSK,185,1.4453125,6,7,7
+202509,"Narendra Modi Stadium, Ahmedabad",GT,MI,181,1.4031007751937985,6,8,8
+202509,"Narendra Modi Stadium, Ahmedabad",MI,GT,151,1.188976377952756,6,6,6
+202510,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",DC,SRH,158,1.6122448979591837,6,3,3
+202510,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,DC,152,1.2773109243697478,6,10,10
+202511,"Barsapara Cricket Stadium, Guwahati",CSK,RR,172,1.3983739837398375,6,6,6
+202511,"Barsapara Cricket Stadium, Guwahati",RR,CSK,172,1.3543307086614174,6,9,9
+202512,"Wankhede Stadium, Mumbai",KKR,MI,109,1.0686274509803921,6,10,10
+202512,"Wankhede Stadium, Mumbai",MI,KKR,118,1.475,6,2,2
+202513,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,164,1.3225806451612903,6,7,7
+202513,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",PBKS,LSG,172,1.702970297029703,6,2,2
+202514,"M.Chinnaswamy Stadium, Bengaluru",GT,RCB,166,1.537037037037037,6,2,2
+202514,"M.Chinnaswamy Stadium, Bengaluru",RCB,GT,162,1.3170731707317074,6,8,8
+202515,"Eden Gardens, Kolkata",KKR,SRH,189,1.5365853658536586,6,6,6
+202515,"Eden Gardens, Kolkata",SRH,KKR,112,1.0666666666666667,6,10,10
+202516,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI,195,1.5234375,6,8,8
+202516,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",MI,LSG,183,1.4758064516129032,6,5,5
+202517,"MA Chidambaram Stadium, Chennai",CSK,DC,140,1.09375,6,5,5
+202517,"MA Chidambaram Stadium, Chennai",DC,CSK,177,1.4390243902439024,6,6,6
+202518,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,RR,140,1.1111111111111112,6,9,9
+202518,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",RR,PBKS,193,1.544,6,4,4
+202519,"Rajiv Gandhi International Stadium, Hyderabad",GT,SRH,150,1.4563106796116505,6,3,3
+202519,"Rajiv Gandhi International Stadium, Hyderabad",SRH,GT,148,1.2131147540983607,6,8,8
+202520,"Wankhede Stadium, Mumbai",MI,RCB,202,1.616,6,9,9
+202520,"Wankhede Stadium, Mumbai",RCB,MI,213,1.6771653543307086,6,5,5
