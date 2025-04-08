@@ -1,0 +1,189 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.App-header {
+  padding: 2rem;
+  color: #282c34;
+}
+
+.prediction-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.matches-list {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.error {
+  color: #ff4444;
+  font-weight: bold;
+}
+
+.prediction-container {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.match-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.prediction-result {
+  background: #fff;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 8px;
+}
+
+.players-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.player-card {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+  text-align: left;
+}
+
+.match-card button {
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.match-card button:hover {
+  background: #0056b3;
+}
+
+.match-card button:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+}
+
+.players-list {
+  margin-top: 1rem;
+}
+
+.match-card {
+  position: relative;
+  transition: transform 0.2s;
+}
+
+.match-card button {
+  min-width: 120px;
+}
+
+.match-card:hover {
+  transform: translateY(-2px);
+}
+
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-message {
+  color: #dc3545;
+  background: #ffe6e6;
+  padding: 1rem;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+.match-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.matches-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.match-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.players-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.no-players {
+  color: #ff6b6b;
+  margin-top: 1rem;
+}
+
+/* Add these styles for proper visualization */
+.probability-bars {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.team-prob {
+  margin: 10px 0;
+  padding: 8px;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.team-prob strong {
+  float: right;
+}
+
+.players-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.player-card {
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 8px;
+}
